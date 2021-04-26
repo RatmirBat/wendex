@@ -11,13 +11,13 @@ int main()
     dgateway.Register();
     dgateway.UpdateDatabase();
 
-    Passanger* p = new Passanger("lox", "password");
+    Passanger* p = new Passanger("log", "password");
     PassangerGateway pgateway(p);
 
     pgateway.Register();
     pgateway.UpdateDatabase();
 
-    PassangerOrder *porder = new PassangerOrder(d, "today", "hz", "huy znaet", 12);
+    PassangerOrder *porder = new PassangerOrder(d, "today", "hz", "h z", 12);
     pgateway.passanger->OrderHistory.push_back(*porder);
     pgateway.passanger->OrderHistory.push_back(*porder);
     pgateway.UpdateDatabase();
