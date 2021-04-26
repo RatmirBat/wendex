@@ -1,0 +1,7 @@
+﻿  Classes.cpp
+C:\Users\ratmi\OneDrive\Desktop\RatmirCPP\RatmirCPP\Classes.cpp(225,10): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\ratmi\OneDrive\Desktop\RatmirCPP\RatmirCPP\Classes.cpp(226,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"
+C:\Users\ratmi\OneDrive\Desktop\RatmirCPP\RatmirCPP\Classes.cpp(226,5): error C2143: синтаксическая ошибка: отсутствие ")" перед "return"
+  RatmirCPP.cpp
+  WendexTaxi.cpp
+  Создание кода...
