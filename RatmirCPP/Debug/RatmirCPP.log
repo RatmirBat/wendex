@@ -1,0 +1,4 @@
+﻿  Classes.cpp
+C:\Users\HP\source\repos\RatmirCPP\RatmirCPP\Classes.cpp(86): warning C4715: 'PassangerGateway::Login': not all control paths return a value
+C:\Users\HP\source\repos\RatmirCPP\RatmirCPP\Classes.cpp(151): warning C4715: 'DriverGateway::Login': not all control paths return a value
+  RatmirCPP.vcxproj -> C:\Users\HP\source\repos\RatmirCPP\Debug\RatmirCPP.exe
