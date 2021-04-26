@@ -1,0 +1,7 @@
+passanger:
+0	name
+1	password
+2	rating
+3	order history
+4	payment method
+5	pinned addresses
